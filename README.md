@@ -7,12 +7,12 @@ We explore data exploration, preprocessing, model development, evaluation, and e
 
 Dataset
 
-    Name: Medical Cost Personal Dataset.
+    Name: Insurance.csv.
     Features:
         Numerical: Age, BMI, Number of Children, Charges.
         Categorical: Sex, Smoking Status, Region.
     Target Variable: charges (medical costs).
-    Size: 50 samples.
+    Size: 1338 samples.
 
 Project Workflow
 1. Data Exploration
