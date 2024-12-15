@@ -117,7 +117,7 @@ Files in Repository
     Assessment componet 2 Group.ipynb: Main script for data processing, model training, and evaluation.
     requirements.txt: List of dependencies.
     README.txt: Project documentation.
-    Dataset: isurance.csv 
+    Dataset: insurance.csv 
 
 Acknowledgments
 
